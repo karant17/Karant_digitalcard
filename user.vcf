@@ -7,9 +7,9 @@ ORG:LIDO
 TITLE:Tech Enthusiasts | Interactive Designer | Web Developer/Tester
 EMAIL;type=INTERNET;type=WORK;type=pref:thakkarkaran17@gmail.com
 TEL;type=WORK;type=VOICE:+91 7738439765
-TEL;type=WORK;type=VOICE:+91 9869776576
+TEL;type=HOME;type=VOICE:+91 9869776576
 item1.ADR;type=WORK;type=pref:
 item1.X-ABADR:sg
-item2.URL;type=pref:http:www.karant17.ml
+item2.URL;type=pref:http://www.karant17.ml
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
